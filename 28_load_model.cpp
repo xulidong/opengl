@@ -1,3 +1,4 @@
+/*
 // Std. Includes
 #include <string>
 
@@ -163,3 +164,4 @@ void scroll_callback(GLFWwindow* window, double xoffset, double yoffset)
 {
     camera.ProcessMouseScroll(yoffset);
 }
+*/
